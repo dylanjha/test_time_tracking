@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = TestTimeTracking::VERSION
   spec.authors       = ["Dylan Jhaveri"]
   spec.email         = ["dylanjhaveri@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Time your Ruby tests and print the slowest ones.}
+  spec.summary       = %q{Time all the tests in your testing suite and print out the slowest ones so you can make them faster.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

@@ -1,6 +1,7 @@
 # TestTimeTracking
 
-TODO: Write a gem description
+* Tracks the time each individual test takes
+* Prints out a list of your ten slowest tests and their times
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Requirements
 
- * `Minitest` the module `TestTimeTracking` hooks into minitest's `before_setup` and `after_teardown` callbacks.
+ * Minitest is required
+     * the module `TestTimeTracking` hooks into minitest's `before_setup` and `after_teardown` callbacks.
 
 ## Usage (Rails)
 
