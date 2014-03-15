@@ -17,6 +17,17 @@ Or install it yourself as:
 
     $ gem install test_time_tracking
 
+## Example Output
+
+```
+304 tests, 496 assertions, 0 failures, 0 errors, 0 skips
+0.885382 - PostsControllerTest - test_.get_all_the_things
+0.668181 - PostsControllerTest - test_.delete_all_the_things
+.
+.
+.
+```
+
 ## Requirements
 
  * Minitest is required
