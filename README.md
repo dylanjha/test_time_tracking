@@ -7,15 +7,12 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'test_time_tracking'
+    gem 'test_time_tracking', github: 'dylanjha/test_time_tracking'
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install test_time_tracking
 
 ## Example Output
 
